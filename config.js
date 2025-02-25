@@ -13,7 +13,7 @@ module.exports = { session: process.env.SESSION_ID || 'BWM-XMD;;;H4sIAAAAAAAAA5W
     NUMERO_OWNER : process.env.NUMERO_OWNER || "967714585737",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
-    BOT : process.env.BOT_NAME || 'BMW_MD',
+    BOT : process.env.BOT_NAME || 'روبوت ذكاء اصطناعي خاص بــ،سۣۗہيۣۗہفۣۗہ آلَقۣۗہآضۣۗہيۣۗ',
     URL : process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/h2ydge.jpg',
     MODE: process.env.PUBLIC_MODE || "yes",
     PM_PERMIT: process.env.PM_PERMIT || 'yes',
